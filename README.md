@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**cloandr/cloandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi I'm Chloé. I'm 22 yo woman working as biomedical engineering intern. 🩺 Based in DK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ I would love to be part of inspiring projects to make a difference for people with severe disease 
+
+🌱 I’m currently learning about mobile app development in Andoid Studio (Java) and UX/UI design (Adobe XD, Figma)
+
+📫  Want to get in touch? Let's connect on Linkedin: <a href="https://www.linkedin.com/in/chloe-andriamiseza-11m22s/"><strong> Chloé Andriamiseza </strong></a> 
+
+# 💻Technologies I use
+- Java: OOP and Android apps
+- C++: Emnbedded Software Development 
+- Python: Software devlopment and Data Science
+- Matlab : Data Science
+- HTML/CSS
+
+
+# 👩‍💻I’m currently working on 
+- R&D for hardware solutions in health tech
+- Mobile app developement 
+
+
+
+
