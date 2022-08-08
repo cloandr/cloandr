@@ -3,7 +3,7 @@
 
 Hi I'm Chloé. I'm a 22 yo woman working as biomedical engineering intern. 🩺 Based in DK
 
-✨ I would love to be part of inspiring projects to make a difference for people with severe diseKKase 
+✨ I would love to be part of inspiring projects to make a difference for people with severe disease 
 
 🌱 I’m currently learning about mobile app development in Andoid Studio (Java) and UX/UI design (Adobe XD, Figma)
 
