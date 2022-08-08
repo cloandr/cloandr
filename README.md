@@ -12,7 +12,7 @@ Hi I'm Chloé. I'm a 22 yo woman working as biomedical engineering intern. 🩺 
 # 💻Technologies that I use
 - Java: OOP and Android apps
 - C++: Emnbedded Software Development 
-- Python: Software devElopment and Data Science
+- Python: Software development and Data Science
 - Matlab : Data Science
 - HTML/CSS
 
