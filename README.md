@@ -1,11 +1,14 @@
 # Hi there 👋
 
 
-Hi I'm Chloé. I'm a 22 yo woman working as biomedical engineering intern. 🩺 Based in DK
+Hi I'm Chloé. I'm a 23 yo woman working as biomedical engineer. 🩺 Based in DK
 
-✨ I would love to be part of inspiring projects to make a difference for people with severe disease 
+✨ I would love to be part of inspiring projects to make a difference for people with severe diseases and healthcare professionals 
 
-🌱 I’m currently learning about mobile app development in Andoid Studio (Java) and UX/UI design (Adobe XD, Figma)
+🌱 I’m currently learning about:
+- Mobile app development in Andoid Studio (Java)
+- Web Technologies (JavaScript, HTML, CSS) 
+- UX/UI design (Adobe XD, Figma)
 
 📫  Want to get in touch? Let's connect on Linkedin: <a href="https://www.linkedin.com/in/chloe-andriamiseza-11m22s/"><strong> Chloé Andriamiseza </strong></a> 
 
@@ -14,7 +17,8 @@ Hi I'm Chloé. I'm a 22 yo woman working as biomedical engineering intern. 🩺 
 - C++: Emnbedded Software Development 
 - Python: Software development and Data Science
 - Matlab : Data Science
-- HTML/CSS
+- Web Technologies: Javascriptm HTML/CSS, XML
+- Databases: SQL
 
 
 # 👩‍💻I’m currently working on 
