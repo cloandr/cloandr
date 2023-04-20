@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-Hi I'm Chloé. I'm a 23 yo woman working as biomedical engineer. 🩺 Based in DK
+Hi I'm Chloé. I'm a 23 yo woman working as software engineer, passionate about digital health and health tech. 🩺 Based in DK
 
 ✨ I would love to be part of inspiring projects to make a difference for people with severe diseases and healthcare professionals 
 
@@ -17,7 +17,7 @@ Hi I'm Chloé. I'm a 23 yo woman working as biomedical engineer. 🩺 Based in D
 - C++: Emnbedded Software Development 
 - Python: Software development and Data Science
 - Matlab : Data Science
-- Web Technologies: Javascriptm HTML/CSS, XML
+- Web Technologies: Javascript HTML/CSS, XML
 - Databases: SQL
 
 
