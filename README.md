@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-Hi I'm Chloé. I'm a 23 yo woman working as software engineer, passionate about digital health and health tech. 🩺 Based in DK
+Hi I'm Chloé. I'm a 25 yo woman working as a software engineer, passionate about digital health and health tech. 🩺 Based in DK
 
 ✨ I would love to be part of inspiring projects to make a difference for people with severe diseases and healthcare professionals 
 
